@@ -10,7 +10,6 @@
 
 ### 📊 **GitHub Stats**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandita5305&show_icons=true&theme=radical&hide_title=true&hide_border=true" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandita5305&theme=radical&hide_border=true" alt="Streak Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nandita5305&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
 </p>
