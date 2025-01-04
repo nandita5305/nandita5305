@@ -2,29 +2,35 @@
 <h3 align="center">🌟 Passionate about coding, learning new technologies, and building impactful projects.</h3>
 <h3 align="center">💻 Currently exploring frontend development and problem-solving on LeetCode.</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nandita5305&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 ---
 
-### 🌟 **About Me**
-- 🔭 I’m currently working on **Frontend Projects**.
-- 🌱 I’m currently learning **React.js** and diving deeper into **Data Structures and Algorithms**.
-- ⚡ Fun fact: I love solving puzzles and brainstorming creative solutions!
+### 📊 **GitHub Stats**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nandita5305&show_icons=true&theme=radical&hide_title=true&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandita5305&theme=radical&hide_border=true" alt="Streak Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nandita5305&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
+</p>
 
 ---
 
 ### 📫 **Connect with Me**
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/www.linkedin.com/in/nandita-jha-b46497289" target="_blank">
-    <img align="center" src="https://img.icons8.com/fluency/40/000000/linkedin.png" alt="Nandita Jha LinkedIn" />
+    <img src="https://img.icons8.com/fluency/40/000000/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/nandita_0503/" target="_blank">
-    <img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="Nandita Jha LeetCode" />
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" />
   </a>
 </p>
 
 ---
 
 ### 🛠️ **Languages and Tools**
-<p align="left">
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
   </a>
@@ -50,28 +56,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
 </p>
-
----
-
-### 📊 **GitHub Stats**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandita5305&show_icons=true&theme=radical" alt="Nandita's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandita5305&theme=radical" alt="Nandita's Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nandita5305&show_icons=true&locale=en&layout=compact&theme=radical" alt="Nandita's Top Languages" />
-</div>
-
----
-
-### 🌟 **Achievements**
-- 🏆 Completed **50 days of coding on LeetCode**.
-- 🚀 Built responsive and accessible web pages with HTML, CSS, and JavaScript.
-
----
-
-Feel free to modify further to make it uniquely yours! 😊
