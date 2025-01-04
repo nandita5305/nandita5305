@@ -2,10 +2,6 @@
 <h3 align="center">🌟 Passionate about coding, learning new technologies, and building impactful projects.</h3>
 <h3 align="center">💻 Currently exploring frontend development and problem-solving on LeetCode.</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nandita5305&label=Profile%20views&color=0e75b6&style=flat" alt="nandita5305" />
-</p>
-
 ---
 
 ### 🌟 **About Me**
