@@ -1,68 +1,25 @@
-<h1 align="center">Hi 👋, I'm Nandita Jha</h1>
-<h3 align="center">🌟 Passionate about coding, learning new technologies, and building impactful projects.</h3>
-<h3 align="center">💻 Currently exploring frontend development and problem-solving on LeetCode.</h3>
+<h2> Hi, I'm Nandita Jha! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Aspiring Software Developer and Enthusiastic Learner <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
 
----
+[![Linkedin: Nandita Jha](https://img.shields.io/badge/-Nandita%20Jha-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nandita-jha-b46497289/)](https://www.linkedin.com/in/nandita-jha-b46497289/)
+[![GitHub Nandita Jha](https://img.shields.io/github/followers/nandita5305?label=follow&style=flat-square&logo=github&logoColor=white)](https://github.com/nandita5305)
+[![LeetCode Nandita Jha](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/nandita_0503/)
 
-### 🌟 **About Me**
-- 🔭 I’m currently working on **Frontend Projects**.
-- 🌱 I’m currently learning **React.js** and diving deeper into **Data Structures and Algorithms**.
-- ⚡ Fun fact: I love solving puzzles and brainstorming creative solutions!
 
----
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-### 📊 **GitHub Stats**  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandita5305&theme=radical&hide_border=true" alt="Streak Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nandita5305&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
-</p>
 
----
+```javascript
+const nandita = {
+  pronouns: "she" | "her",
+  code: [C, C++, MySQL, Javascript, Python, HTML, CSS],
+  learning: ["React.js", "LeetCode Challenges"],
+  interests: ["Frontend Development", "Open Source", "Web Projects"],
+  challenge: "I am doing the #100DaysOfCode challenge to improve my skills in problem-solving."
+}
+```
 
-### 🛠️ **Languages and Tools**
-<p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-</p>
-
----
-
-### 🌟 **Achievements**
-- 🏆 Completed **50 days of coding on LeetCode**.
-- 🚀 Built responsive and accessible web pages with HTML, CSS, and JavaScript.
-
----
-
-### 📫 **Connect with Me**
-<p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/nandita-jha-b46497289" target="_blank">
-    <img align="center" src="https://img.icons8.com/fluency/40/000000/linkedin.png" alt="Nandita Jha LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/nandita_0503/" target="_blank">
-    <img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="Nandita Jha LeetCode" />
-  </a>
-</p>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
