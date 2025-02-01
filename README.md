@@ -13,7 +13,7 @@
 ```javascript
 const nandita = {
   pronouns: "she" | "her",
-  code: [C, C++, MySQL, Javascript, Python, HTML, CSS],
+  code: [C, C++, Java, MySQL, Javascript, Python, HTML, CSS],
   learning: ["React.js", "LeetCode Challenges"],
   interests: ["Frontend Development", "Open Source", "Web Projects"],
   challenge: "I am doing the #100DaysOfCode challenge to improve my skills in problem-solving."
